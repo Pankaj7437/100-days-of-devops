@@ -39,6 +39,7 @@ ssh banner@stapp03
 ---
 
 ### 3. Modify SSH Configuration
+Make sure each server has vi or nano installed or install using dnf.
 Edit the SSH daemon configuration file on each server:
 
 ```bash
