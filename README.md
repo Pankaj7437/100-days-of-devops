@@ -1,46 +1,52 @@
-# 100 Days of DevOps
+# 100 Days of DevOps 🚀
 
-This repository documents my **100 Days of DevOps journey**, where I practice and implement various DevOps concepts through hands-on labs and real-world scenarios.
+![Linux](https://img.shields.io/badge/Linux-Admin-blue?logo=linux)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-success)
+![Progress](https://img.shields.io/badge/Progress-Day%204%2F100-yellow)
 
-The goal of this challenge is to build strong practical knowledge in **Linux, Networking, Cloud, Automation, CI/CD, Containers, and Infrastructure as Code.**
+This repository documents my **100 Days of DevOps journey**, where I practice and implement real-world DevOps and system administration tasks.
 
----
-
-## Objectives
-
-- Build strong Linux administration skills
-- Learn DevOps tools and workflows
-- Practice real-world infrastructure tasks
-- Document every learning step
-- Maintain a consistent daily learning habit
+The objective of this challenge is to build strong practical skills in **Linux administration, automation, cloud technologies, and DevOps tools**.
 
 ---
 
-## Technologies & Tools
+# Objectives
+
+- Develop strong Linux administration skills
+- Practice real-world DevOps tasks
+- Gain hands-on experience with infrastructure management
+- Build a consistent daily learning habit
+- Document the entire learning journey
+
+---
+
+# Technologies & Tools
 
 - Linux
-- Git
+- Git & GitHub
 - Bash
+- Networking
 - AWS
 - Docker
 - Kubernetes
 - CI/CD
-- Infrastructure Automation
 
 ---
 
-## Progress
+# Progress Tracker
 
-| Day | Task | Link |
-|----|------|------|
+| Day | Task | Documentation |
+|----|------|---------------|
 | 1 | Create User with Non-Interactive Shell | [Day01](Day01/README.md) |
 | 2 | Temporary User Creation with Expiry Date | [Day02](Day02/README.md) |
 | 3 | Disable Direct SSH Root Login | [Day03](Day03/README.md) |
 | 4 | Script Execution Permissions | [Day04](Day04/README.md) |
+| 5 | Install and Disable SELinux | [Day05](Day05/README.md) |
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```
 100-days-of-devops
@@ -57,26 +63,30 @@ The goal of this challenge is to build strong practical knowledge in **Linux, Ne
 ├── Day04
 │   └── README.md
 │
+├── Day05
+│   └── README.md
+│
 └── README.md
 ```
 
 ---
 
-## About This Challenge
-
-This challenge helps in developing discipline and gaining practical experience with DevOps tools and system administration tasks.
+# What This Repository Contains
 
 Each day includes:
-- Problem description
+
+- Task description
 - Commands used
-- Solution steps
+- Step-by-step solution
 - Key takeaways
 
 ---
 
-## Author
+# Author
 
 **Pankaj Sharma**
 
-B.Tech Computer Science Student  
+B.Tech Computer Science Engineering  
 Aspiring DevOps Engineer
+
+---
