@@ -1,4 +1,4 @@
-# Day XX – Automating Website Backup with Bash Script
+# Day 10 – Automating Website Backup with Bash Script
 
 ## Objective
 
