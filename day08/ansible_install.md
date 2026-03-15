@@ -1,4 +1,4 @@
-# Day 14 – Install Ansible using pip3
+# Day 8 – Install Ansible using pip3
 
 ## Objective
 Install **Ansible version 4.10.0** on the jump host using `pip3` and ensure it is globally accessible.
