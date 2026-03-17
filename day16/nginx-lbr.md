@@ -22,18 +22,18 @@ The load balancer will distribute incoming traffic across all application server
 Architecture:
 
 ```
-Client Request
-      │
-      ▼
-   stlb01
-   (Nginx)
-      │
- ┌────┴────┐
- │         │
- ▼         ▼
-stapp01   stapp02   stapp03
- Apache    Apache    Apache
- Port 8084 Port 8084 Port 8084
+                  Client Request
+                        │
+                        ▼
+                     stlb01
+                     (Nginx)
+                        │
+             ┌──────────┌─────────┐
+             │          │         │
+             ▼          ▼         ▼
+            stapp01    stapp02    stapp03
+            Apache     Apache     Apache
+            Port 8084  Port 8084  Port 8084
 ```
 
 ---
